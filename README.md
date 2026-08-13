@@ -96,17 +96,68 @@ Minha jornada envolve aprender continuamente novas tecnologias, transformar conh
 
 ---
 
-## `> PROJECT_DATABASE`
+## `> PROJECT_ARCHIVE`
 
 <div align="center">
 
-<a href="https://github.com/davijsf/api-efcore">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=davijsf&repo=api-efcore&theme=github_dark&hide_border=true&bg_color=05070D&title_color=00F7FF&icon_color=00F7FF&text_color=9CA3AF" />
-</a>
+<table>
+<tr>
 
-<a href="https://github.com/davijsf/agenda-contatos">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=davijsf&repo=agenda-contatos&theme=github_dark&hide_border=true&bg_color=05070D&title_color=00F7FF&icon_color=00F7FF&text_color=9CA3AF" />
+<td width="50%" valign="top">
+
+<h3>⚡ API EF Core</h3>
+
+<p>
+REST API for library management built with
+<strong>C# + ASP.NET Core</strong>.
+</p>
+
+<p>
+<code>.NET 10</code>
+<code>Entity Framework Core</code>
+<code>SQLite</code>
+<code>Swagger</code>
+</p>
+
+<p>
+<a href="https://github.com/davijsf/api-efcore">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=05070D"/>
 </a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>☕ Agenda Contatos</h3>
+
+<p>
+REST API for contact management built with
+<strong>Java + Spring Boot</strong>.
+</p>
+
+<p>
+<code>Java</code>
+<code>Spring Boot</code>
+<code>REST API</code>
+<code>Maven</code>
+</p>
+
+<p>
+<a href="https://github.com/davijsf/agenda-contatos">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=05070D"/>
+</a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/PROJECTS-02-05070D?style=for-the-badge&labelColor=05070D&color=00F7FF"/>
+<img src="https://img.shields.io/badge/BACKEND_FOCUSED-YES-05070D?style=for-the-badge&labelColor=05070D&color=00F7FF"/>
 
 </div>
 
@@ -130,46 +181,11 @@ davi@system:~$ ./current_objectives.sh
 
 ---
 
-## `> GITHUB_ANALYTICS`
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=davijsf&show_icons=true&theme=github_dark"
-  width="48%"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=davijsf&layout=compact&theme=github_dark"
-  width="48%"
-/>
-
-<br><br>
-
-<img
-  src="https://streak-stats.demolab.com/?user=davijsf&theme=dark&hide_border=true"
-  width="70%"
-/>
-
-</div>
-
----
-
 ## `> ACTIVITY_MONITOR`
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=davijsf&bg_color=05070D&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true&custom_title=SYSTEM%20ACTIVITY%20GRAPH" width="95%"/>
-
-</div>
-
----
-
-## `> ACHIEVEMENTS`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=davijsf&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=7" width="95%"/>
 
 </div>
 
