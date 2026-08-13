@@ -64,7 +64,7 @@ Minha jornada envolve aprender continuamente novas tecnologias, transformar conh
 
 ### 🗄️ Database
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb" />
 
 <br><br>
 
@@ -140,7 +140,7 @@ davi@system:~$ ./current_objectives.sh
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=github-dark-blue&hide_border=true&background=05070D&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+<img src="https://streak-stats.demolab.com?user=davijsf&theme=github-dark-blue&hide_border=true&background=05070D&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
 
 </div>
 
