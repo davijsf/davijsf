@@ -134,13 +134,22 @@ davi@system:~$ ./current_objectives.sh
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=davijsf&show_icons=true&theme=github_dark&hide_border=true&bg_color=05070D&title_color=00F7FF&icon_color=00F7FF&text_color=9CA3AF&rank_icon=github" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=davijsf&show_icons=true&theme=github_dark"
+  width="48%"
+/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davijsf&layout=compact&theme=github_dark&hide_border=true&bg_color=05070D&title_color=00F7FF&text_color=9CA3AF" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=davijsf&layout=compact&theme=github_dark"
+  width="48%"
+/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=davijsf&theme=github-dark-blue&hide_border=true&background=05070D&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+<img
+  src="https://streak-stats.demolab.com/?user=davijsf&theme=dark&hide_border=true"
+  width="70%"
+/>
 
 </div>
 
