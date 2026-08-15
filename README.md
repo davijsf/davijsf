@@ -205,7 +205,7 @@ davi@system:~$ ./current_objectives.sh
 
 <div align="center">
 
-<a href="www.linkedin.com/in/davi-josé-da-silva-ferreira-64a0911b2">
+<a href="HTTPS://www.linkedin.com/in/davi-josé-da-silva-ferreira-64a0911b2">
 <img src="https://img.shields.io/badge/LinkedIn-0A0E17?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
 </a>
 
