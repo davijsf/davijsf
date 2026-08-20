@@ -191,16 +191,6 @@ davi@system:~$ ./current_objectives.sh
 
 ---
 
-## `> CONTRIBUTION_MATRIX`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/davijsf/davijsf/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</div>
-
----
-
 ## `> CONNECT`
 
 <div align="center">
