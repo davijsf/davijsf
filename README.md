@@ -161,36 +161,6 @@ REST API for contact management built with
 
 </div>
 
----
-
-## `> CURRENT_OBJECTIVES`
-
-```bash
-davi@system:~$ ./current_objectives.sh
-
-[████████████████████] 100%  Learn backend architecture
-[██████████████████░░]  90%  Build REST APIs
-[███████████████░░░░░]  75%  Improve C# / ASP.NET
-[██████████████░░░░░░]  70%  Improve Java / Spring
-[███████████░░░░░░░░░]  55%  Explore TypeScript
-[████████░░░░░░░░░░░░]  40%  Cloud & DevOps
-
-> Mission status: ACTIVE
-> Next objective: BUILD SOMETHING GREAT
-```
-
----
-
-## `> ACTIVITY_MONITOR`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=davijsf&bg_color=05070D&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true&custom_title=SYSTEM%20ACTIVITY%20GRAPH" width="95%"/>
-
-</div>
-
----
-
 ## `> CONNECT`
 
 <div align="center">
@@ -210,19 +180,5 @@ davi@system:~$ ./current_objectives.sh
 </div>
 
 ---
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║        SYSTEM ONLINE  •  KEEP BUILDING  •  2026         ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:111827,50:0B1220,100:05070D&animation=twinkling"/>
-
-<sub>Designed & built with code, curiosity and caffeine.</sub>
-
 </div>
