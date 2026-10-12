@@ -180,5 +180,3 @@ REST API for contact management built with
 </div>
 
 ---
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:111827,50:0B1220,100:05070D&animation=twinkling"/>
-</div>
